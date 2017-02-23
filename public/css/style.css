@@ -1,0 +1,111 @@
+/*comienzo de edicion del navbar*/
+.navbar{
+	padding-top: 1%;
+	background-color: transparent;
+  background: transparent;
+  border-color: transparent;
+  /*Animation*/
+  -webkit-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+}
+
+.navbar-nav a{
+	color: #fff !important;
+	font-size: medium;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-bottom: 3% !important;
+	/*quitamos lso padding laterales*/
+	padding-left: 0 !important;
+	padding-right: 0px !important;
+	margin-left: 30%;
+}
+
+.navbar-nav a:hover{
+	/*color: #3D8CC2 !important;*/
+	text-decoration: underline;
+}
+
+/*efecto para el subrayado de los links*/
+.navbar-nav a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+
+}
+/*efecto para el subrayado de los links*/
+.navbar-nav a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  /*padding: 15px;*/
+  width: auto;
+  padding: 7px 15px;
+}
+/*fin de edicion del navbar*/
+
+
+
+.principal-container{
+	/*margin-top: 100px;*/
+}
+
+.first-banner{
+	background-image: url("../images/bck6.jpg");
+	width:100%;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.first-banner h1{
+	margin: 0 !important;
+	padding-top: 15%;
+	color: white;
+	text-align: center !important;
+	text-transform: uppercase;
+}
+
+.first-banner h3{
+	margin: 0 !important;
+	padding-top: 1%;
+	color: white;
+	text-align: center !important;
+}
+
+
+.div-tecno{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+.div-erp{
+	margin-top: 5%;
+	margin-bottom: 10%;
+
+	background-image: url("../images/bck-mirrored.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+.erp-text{
+	padding-top: 5%;
+	color: white;
+}
