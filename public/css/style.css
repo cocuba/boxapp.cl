@@ -24,12 +24,15 @@ body{
 	/*quitamos lso padding laterales*/
 	padding-left: 0 !important;
 	padding-right: 0px !important;
-	margin-left: 30%;
+	/*colocado en em para que se vea bn en chrome*/
+	margin-left: 2em;
 }
+
 
 .navbar-nav a:hover{
 	/*color: #3D8CC2 !important;*/
 	text-decoration: underline;
+	background-color: transparent !important;
 }
 
 /*efecto para el subrayado de los links*/
@@ -63,6 +66,10 @@ body{
   /*padding: 15px;*/
   width: auto;
   padding: 7px 15px;
+}
+
+.navbar-toggle{
+	background-color: transparent !important;
 }
 /*fin de edicion del navbar*/
 
