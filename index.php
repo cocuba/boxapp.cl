@@ -24,7 +24,7 @@
 			<p class="">Aplicaciones nativas para los principales sistemas operativos de la actualidad como Android e iOS</p>
 		</div>
 		<div class="col-md-4 tecno-item text-center">
-			<img src="public/images/boxapp-erp.png" class="img-responsive" height="200" width="200">
+			<img src="public/images/erp.png" class="img-responsive" height="200" width="200">
 			<p class="text-uppercase"><b>Boxapp ERP</b></p>
 			<p> Un ERP hecho por nosotros que toma en cuenta tus requisitos que son necesarios para el desarrollo y gestión de tu empresa</p>
 		</div>
@@ -150,27 +150,32 @@
 </div><!-- div-projects -->
 
 <div class="container-fluid div-erp" id="erpdiv">
+    <!-- agregamos el form -->
+    <?php
+        include "erp_form.php";
+        include "erp_carac_model.html";
+    ?>
 	<div class="container erp-text text-center">
 		<h1 class="text-uppercase">Boxapp ERP</h1>
 		<h3>Administra y Gestiona tu Empresa con Nuestro Software Desarrollado a tus Necesidades</h3>
-		<a href="" class="btn btn-lg btn-boxapp-black">Contacta con Nosotros</a>
-		<a href="" class="btn btn-lg btn-boxapp-transparent">Ver Demo</a>
+        <button class="btn btn-lg btn-boxapp-black" data-toggle="modal" data-target="#modalErp">Contacta con Nosotros</button>
+        <button class="btn btn-lg btn-boxapp-transparent" data-toggle="modal" data-target="#modal-erp-carac">Ver Características</button>
 	</div>
 </div>
 
 <div class="container div-tecno" id="tecnologia">
-	<div class="col-md-12">
+	<div class="col-md-12 slider">
 		<h1 class="text-center text-uppercase">Tecnologías</h1>
-		<div class="col-md-3 tecno-item">
+		<div class="col-md-3 tecno-item slide">
 			<img src="public/images/phplogo.png" class="img-responsive" height="250" width="250" style="margin-top: 10%;">
 		</div>
-		<div class="col-md-3 tecno-item">
+		<div class="col-md-3 tecno-item slide">
 			<img src="public/images/android-logo.jpg" class="img-responsive" height="200" width="200">
 		</div>
-		<div class="col-md-3 tecno-item">
+		<div class="col-md-3 tecno-item slide">
 			<img src="public/images/angularjs-logo.png" class="img-responsive" height="200" width="200">
 		</div>
-		<div class="col-md-3 tecno-item">
+		<div class="col-md-3 tecno-item slide">
 			<img src="public/images/java-logo.png" class="img-responsive" height="200" width="200">
 		</div>
 	</div>
@@ -196,7 +201,7 @@
 			<input class="form-control" type="email" name="email" placeholder="Correo Electrónico">
 		</div>
 		<div class="form-group col-md-6 col-md-offset-3">
-			<textarea class="form-control" name="comentarios" placeholder="Comentarios..."></textarea>			
+			<textarea class="form-control" name="comentarios" rows="5" placeholder="Comentarios..."></textarea>
 		</div> 
 		<div class="col-md-12">
 			<input type="submit" class="btn btn-boxapp btn-lg" name="Enviar Consulta">

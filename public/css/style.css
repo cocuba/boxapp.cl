@@ -1,4 +1,4 @@
-/*cargando el tipo de letra de google font*/
+/*cargando el tipo de letra de google*/
 body{
 	font-family: 'Amiko', sans-serif;
   /*font-size: 48px;*/
@@ -255,6 +255,12 @@ body{
 	padding-bottom: 2%;
 }
 
+
+.modal-header{
+	background-color: #5382b0 !important;
+	color: #fff;
+	text-align: center;
+}
 
 
 
