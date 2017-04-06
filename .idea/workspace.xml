@@ -1,68 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17596e3-8e5f-4a2c-90e8-7825a560213b" name="Default" comment="se  agregaron funcionalides a los botones del erp&#10;se arreglo el footer &#10;agregadas nuevas paginas de productos&#10;agregado el chat de boxapp">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Contact-us-banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Cplus2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/banner_contacto_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/contact-us.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/contacto_banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/erp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/net_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/abal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/alogistica.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/conceptlighting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/construmart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/cromocar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/diff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/eleocolor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/esmaltadoprofesional.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/facilici.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/fardo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/flamante.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/grupomeicys.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/iccingenieria.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/LogoZonaGPS_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/logo-clinica-everest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/logo-web-rally.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/todofreno.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/meicys.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/restauraciondetinas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/suzukivalderrama.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/todofreno.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/vipcar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/video/background_video.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/boxappwp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/cvallenilla.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productos_movil.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productos_propietario.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productos_web.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/lightslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lightslider.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/prettyPhoto.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/unslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/unslider.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/angularjs-logo.png" afterPath="$PROJECT_DIR$/public/images/angularjs-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/java-logo.png" afterPath="$PROJECT_DIR$/public/images/java-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/phplogo.png" afterPath="$PROJECT_DIR$/public/images/phplogo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/portfolio/azachian.png" afterPath="$PROJECT_DIR$/public/images/portfolio/azachian.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/portfolio/everest.png" afterPath="$PROJECT_DIR$/public/images/portfolio/everest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enviocontacto.php" afterPath="$PROJECT_DIR$/enviocontacto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/footer.html" afterPath="$PROJECT_DIR$/includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/header.html" afterPath="$PROJECT_DIR$/includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/boxapp.js" afterPath="$PROJECT_DIR$/public/js/boxapp.js" />
+    <list default="true" id="b17596e3-8e5f-4a2c-90e8-7825a560213b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/alogistica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/facilici.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/suzukivalde.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,18 +27,36 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="338" column="20" lean-forward="false" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+            <state relative-caret-position="240">
+              <caret line="311" column="10" lean-forward="true" selection-start-line="311" selection-start-column="10" selection-end-line="311" selection-end-column="10" />
+              <folding>
+                <element signature="e#5410#5437#0#HTML" expanded="true" />
+                <element signature="e#6202#6229#0#HTML" expanded="true" />
+                <element signature="e#7795#7822#0#HTML" expanded="true" />
+                <element signature="e#9404#9431#0#HTML" expanded="true" />
+                <element signature="e#12512#12539#0#HTML" expanded="true" />
+                <element signature="e#13270#13297#0#HTML" expanded="true" />
+                <element signature="e#14185#14212#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <file leaf-file-name="erp_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erp_form.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4320">
-              <caret line="288" column="56" lean-forward="false" selection-start-line="288" selection-start-column="56" selection-end-line="288" selection-end-column="56" />
+            <state relative-caret-position="210">
+              <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -104,65 +66,52 @@
         <entry file="file://$PROJECT_DIR$/erp_carac_model.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="40" column="135" lean-forward="false" selection-start-line="40" selection-start-column="135" selection-end-line="40" selection-end-column="135" />
+              <caret line="40" column="139" lean-forward="false" selection-start-line="40" selection-start-column="132" selection-end-line="40" selection-end-column="139" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <file leaf-file-name="enviocontacto.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enviocontacto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+            <state relative-caret-position="989">
+              <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <marker date="1488314909320" expanded="true" signature="1302:1403" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1423:1452" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1453:2002" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1475:1590" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1661:1676" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1713:1877" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1713:1989" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1713:2002" ph="..." />
+                <marker date="1488314909320" expanded="false" signature="1771:1779" ph="é" />
+                <marker date="1488314909320" expanded="false" signature="1902:1956" ph="..." />
+                <marker date="1488314909320" expanded="true" signature="1957:1974" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productos_web.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productos_web.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
+            <state relative-caret-position="-765">
+              <caret line="229" column="0" lean-forward="true" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="productos_movil.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productos_movil.php">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="productos_propietario.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/productos_propietario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="boxapp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding>
-                <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-                <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-                <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-                <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -195,6 +144,18 @@
       <find>carousel-caption-boxapp2</find>
       <find>foot</find>
       <find>\&lt;div class\=\&quot;carousel\-inner\&quot; role\=\&quot;listbox\&quot;\&gt;\n        \&lt;div class\=\&quot;item active\&quot;\&gt;\n            \&lt;img src\=\&quot;public\/images\/bck6\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n            \&lt;div class\=\&quot;carousel\-caption\&quot;\&gt;\n                \.\.\.\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;item\&quot;\&gt;\n            \&lt;video autoplay loop\&gt;\n                \&lt;source src\=\&quot;public\/video\/background_video\.mp4\&quot; type\=\&quot;video\/mp4\&quot;\&gt;\n            \&lt;\/video\&gt;\n            \&lt;\!\-\-            \&lt;img src\=\&quot;\&quot; alt\=\&quot;\.\.\.\&quot;\&gt;\-\-\&gt;\n\n            \&lt;div class\=\&quot;carousel\-caption\&quot; id\=\&quot;carousel\-caption\-boxapp2\&quot;\&gt;\n                \&lt;h1\&gt;Boxapp\&lt;\/h1\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/div\&gt;</find>
+      <find>suzu</find>
+      <find>port</find>
+      <find>portfolio-filter</find>
+      <find>portf</find>
+      <find>contact</find>
+      <find>Correo Enviado Correctamente,Pronto Nos Comunicaremos Contigo!</find>
+      <find>Correo Enviado Correctamente,Pronto Nos Comunicaremos Contigo</find>
+      <find>Correo Enviado Correctamente,Pronto Nos Comunicaremos Contig</find>
+      <find>Correo Enviado Correctamente,P</find>
+      <find>Correo Enviado Correctamente,</find>
+      <find>Correo Enviado Correctamente</find>
+      <find>erp-portfolio</find>
     </findStrings>
     <replaceStrings>
       <replace>Boxapp</replace>
@@ -218,16 +179,17 @@
         <option value="$PROJECT_DIR$/erp-carac_model.html" />
         <option value="$PROJECT_DIR$/erp_carac_model.html" />
         <option value="$PROJECT_DIR$/public/css/lightslider.css" />
-        <option value="$PROJECT_DIR$/erp_form.php" />
         <option value="$PROJECT_DIR$/enviocontacto.php" />
         <option value="$PROJECT_DIR$/includes/header.html" />
         <option value="$PROJECT_DIR$/public/js/boxapp.js" />
         <option value="$PROJECT_DIR$/productos_web.php" />
         <option value="$PROJECT_DIR$/productos_movil.php" />
         <option value="$PROJECT_DIR$/productos_propietario.php" />
+        <option value="$PROJECT_DIR$/includes/footer.html" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/includes/footer.html" />
+        <option value="$PROJECT_DIR$/erp_form.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -343,6 +305,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -486,7 +476,7 @@
       <workItem from="1491403616997" duration="395000" />
       <workItem from="1491404038658" duration="1498000" />
       <workItem from="1491408589949" duration="2652000" />
-      <workItem from="1491482020873" duration="531000" />
+      <workItem from="1491482020873" duration="7547000" />
     </task>
     <task id="LOCAL-00001" summary="se  agregaron funcionalides a los botones del erp">
       <created>1488221321164</created>
@@ -495,20 +485,35 @@
       <option name="project" value="LOCAL" />
       <updated>1488221321164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="se  agregaron funcionalides a los botones del erp&#10;se arreglo el footer &#10;agregadas nuevas paginas de productos&#10;agregado el chat de boxapp">
+      <created>1491482573792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1491482573792</updated>
+    </task>
+    <task id="LOCAL-00003" summary="se  agregaron funcionalides a los botones del erp&#10;se arreglo el footer &#10;agregadas nuevas paginas de productos&#10;agregado el chat de boxapp">
+      <created>1491489467900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1491489467900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71241000" />
+    <option name="totallyTimeSpent" value="78257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1922" height="1081" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.49591836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.49591836" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -521,7 +526,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -559,19 +563,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4350">
@@ -584,7 +575,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4710">
           <caret line="314" column="39" lean-forward="true" selection-start-line="314" selection-start-column="28" selection-end-line="314" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -616,12 +615,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +631,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -677,12 +679,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -690,7 +687,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -714,7 +719,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2865">
           <caret line="191" column="29" lean-forward="false" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="41" />
-          <folding />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -770,12 +783,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -783,7 +791,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2520">
           <caret line="168" column="54" lean-forward="false" selection-start-line="168" selection-start-column="54" selection-end-line="168" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -813,12 +829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,7 +837,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2490">
           <caret line="166" column="28" lean-forward="true" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -850,12 +869,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1545">
           <caret line="103" column="19" lean-forward="false" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
-          <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -867,13 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="156" column="53" lean-forward="false" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/erp_form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -902,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/productos_web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="15">
           <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
           <folding />
         </state>
@@ -910,20 +917,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="15">
           <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
-            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
-            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="229" column="0" lean-forward="true" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/enviocontacto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
+        <state relative-caret-position="989">
           <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
           <folding>
             <marker date="1488314909320" expanded="true" signature="1302:1403" ph="..." />
@@ -944,35 +965,40 @@
     <entry file="file://$PROJECT_DIR$/erp_carac_model.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="40" column="135" lean-forward="false" selection-start-line="40" selection-start-column="135" selection-end-line="40" selection-end-column="135" />
+          <caret line="40" column="139" lean-forward="false" selection-start-line="40" selection-start-column="132" selection-end-line="40" selection-end-column="139" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+    <entry file="file://$PROJECT_DIR$/erp_form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4320">
-          <caret line="288" column="56" lean-forward="false" selection-start-line="288" selection-start-column="56" selection-end-line="288" selection-end-column="56" />
+        <state relative-caret-position="210">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="338" column="20" lean-forward="false" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="311" column="10" lean-forward="true" selection-start-line="311" selection-start-column="10" selection-end-line="311" selection-end-column="10" />
+          <folding>
+            <element signature="e#5410#5437#0#HTML" expanded="true" />
+            <element signature="e#6202#6229#0#HTML" expanded="true" />
+            <element signature="e#7795#7822#0#HTML" expanded="true" />
+            <element signature="e#9404#9431#0#HTML" expanded="true" />
+            <element signature="e#12512#12539#0#HTML" expanded="true" />
+            <element signature="e#13270#13297#0#HTML" expanded="true" />
+            <element signature="e#14185#14212#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
