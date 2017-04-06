@@ -3,31 +3,84 @@
 	include "includes/header.html"
 ?>
 
-<div class="principal-container">
-	<div class="first-banner">
-		<h1>Boxapp</h1>
-		<h3>Lorem Ipsum</h3>
-	</div>
+
+<div id="carousel-boxapp" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+<!--    <ol class="carousel-indicators">-->
+<!--        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>-->
+<!--        <li data-target="#carousel-example-generic" data-slide-to="1"></li>-->
+<!--        <li data-target="#carousel-example-generic" data-slide-to="2"></li>-->
+<!--    </ol>-->
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="public/images/bck6.jpg" alt="">
+            <div class="carousel-caption carousel-caption-boxapp2">
+                <h3 class="text-uppercase"> <b style="color:#029eff">Especialistas Tecnológicos!</b> somos un equipo de personas jóvenes dedicadas a cumplir las metas
+                    propuestas por los clientes.
+                </h3>
+
+            </div>
+        </div>
+        <div class="item">
+            <video autoplay loop>
+                <source src="public/video/background_video.mp4" type="video/mp4">
+            </video>
+            <!--            <img src="" alt="...">-->
+
+            <div class="carousel-caption carousel-caption-boxapp2">
+                <h3 class="text-uppercase"><b style="color:#029eff">Nuestro objetivo</b> es lograr integrar las tecnologías al mercado, al común diario y a las personas; para así
+                poder entregar más herramientas de desarrollo al país.</h3>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-boxapp" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-boxapp" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
+
+
+
+<!--<div class="principal-container">-->
+<!--	<div class="first-banner">-->
+<!--		<h1>Boxapp</h1>-->
+<!--		<h3>Lorem Ipsum</h3>-->
+<!--	</div>-->
+<!--</div>-->
 
 <div class="container-fluid div-productos" id="productos">
 	<div class="col-md-12">
 		<h1 class="text-center text-uppercase">productos</h1>
-		<div class="col-md-4 tecno-item text-center">
+        <a href="productos_web.php">
+            <div class="col-md-4 tecno-item text-center">
 			<img src="public/images/appweb-ico.png" class="img-responsive" height="200" width="200">
 			<p class="text-uppercase"><b>Aplicaciones Web y Escritorio</b></p>
 			<p class="">Desarrolladas con las últimas tecnologías y estandares para que tengas aplicaciones de gran calidad y rendimiento</p>
-		</div>
-		<div class="col-md-4 tecno-item text-center">
-			<img src="public/images/appmovil-ico.png" class="img-responsive" height="200" width="200">
-			<p class="text-uppercase"><b>Aplicaciones Móviles</b></p>
-			<p class="">Aplicaciones nativas para los principales sistemas operativos de la actualidad como Android e iOS</p>
-		</div>
-		<div class="col-md-4 tecno-item text-center">
-			<img src="public/images/erp.png" class="img-responsive" height="200" width="200">
-			<p class="text-uppercase"><b>Boxapp ERP</b></p>
-			<p> Un ERP hecho por nosotros que toma en cuenta tus requisitos que son necesarios para el desarrollo y gestión de tu empresa</p>
-		</div>
+		    </div>
+        </a>
+        <a href="productos_movil.php">
+            <div class="col-md-4 tecno-item text-center">
+                <img src="public/images/appmovil-ico.png" class="img-responsive" height="200" width="200">
+                <p class="text-uppercase"><b>Aplicaciones Móviles</b></p>
+                <p class="">Aplicaciones nativas para los principales sistemas operativos de la actualidad como Android e iOS</p>
+            </div>
+        </a>
+        <a href="productos_propietario.php">
+            <div class="col-md-4 tecno-item text-center">
+                <img src="public/images/erp.png" class="img-responsive" height="200" width="200">
+                <p class="text-uppercase"><b>Software Propietario</b></p>
+                <p> Realizado por nosotros con el mayor detalle y calidad para ofrecerte un producto de gran nivel que son necesarios para el desarrollo y gestión de tu empresa</p>
+            </div>
+        </a>
 	</div>
 </div>
 
@@ -39,7 +92,7 @@
 	    <li><button class="btn btn-boxapp is-checked" data-filter="*">Todos Los Proyectos</button></li>
 	    <li><button class="btn btn-boxapp " data-filter=".web">P&aacute;ginas Web</button></li>
 	    <li><button class="btn btn-boxapp " data-filter=".movil">Apps Móviles</button></li>
-	    <li><button class="btn btn-boxapp " data-filter=".erp-portfolio">Clientes del ERP</button></li>
+	    <li><button class="btn btn-boxapp " data-filter=".erp-portfolio">Clientes de Nuestro ERP</button></li>
 	  </ul><!--/#portfolio-filter-->
 	</div>
 	<div class="container">      
@@ -48,10 +101,37 @@
             <div class="recent-work-wrap">
                 <img class="img-responsive portfolio-item-img" src="public/images/portfolio/azachian.png" alt="">
                 <div class="overlay text-center">
-                    <div class="recent-work-inner">
+                    <div class="recent-work-inner text-center">
                         <h3><a href="http://www.azachian.cl" target="_blank">Azachian</a></h3>
-                        <p>Portal informativo acerca de la Terapistas y sus Consultas</p>
+<!--                        <p>Portal informativo acerca de los Terapistas y sus Consultas</p>-->
                     </div>
+                </div>
+                <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+            </div>
+        </div><!--/.portfolio-item-->
+
+        <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
+            <div class="recent-work-wrap">
+                <img class="img-responsive" src="public/images/portfolio/alogistica.png" alt="">
+                <div class="overlay ">
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="#">Alogística</a></h3>
+                        <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                    </div>
+                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                </div>
+            </div>
+        </div><!--/.portfolio-item-->
+
+        <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
+            <div class="recent-work-wrap">
+                <img class="img-responsive" src="public/images/portfolio/todofreno.png" alt="">
+                <div class="overlay ">
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="#">Rally Limitada</a></h3>
+                        <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                    </div>
+                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
@@ -60,22 +140,36 @@
             <div class="recent-work-wrap">
                 <img class="img-responsive portfolio-item-img" src="public/images/portfolio/afachile.png" alt="">
                 <div class="overlay text-center">
-                    <div class="recent-work-inner">
+                    <div class="recent-work-inner text-center">
                         <h3><a href="http://www.afa-chile.cl" target="_blank">Afa-Chile</a></h3>
                         <p>Portal informativo de la empresa, adicionalmente se habilit&oacute; boton de pago</p>
                     </div>
                 </div>
+                <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
             </div>
         </div><!--/.portfolio-item-->
 
-        <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 movil">
+        <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/todofreno.png" alt="">
+                <div class="overlay ">
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="#">Suzuki Valderrama</a></h3>
+                        <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                    </div>
+                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                </div>
+            </div>
+        </div><!--/.portfolio-item-->
+
+        <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 web">
+            <div class="recent-work-wrap">
+                <img class="img-responsive" src="public/images/portfolio/abal.png" alt="">
                 <div class="overlay">
-                    <div class="recent-work-inner">
-                        <h3><a href="#">Business theme</a></h3>
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="http://www.comercialabal.cl" target="_blank">Comercial Abal</a></h3>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                        <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                        <a class="preview" href="http://www.comercialabal.cl" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
                 </div>
             </div>
@@ -108,42 +202,70 @@
 
         <div class="portfolio-item joomla html bootstrap col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/cromocar.png" alt="">
                 <div class="overlay">
-                    <div class="recent-work-inner">
-                        <h3><a href="#">Business theme</a></h3>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                        <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="http://cromocar.cl">Cromocar</a></h3>
+<!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="http://cromocar.cl" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
 
-        <div class="portfolio-item wordpress html apps col-xs-12 col-sm-4 col-md-3">
+        <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 web">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/conceptlighting.png" alt="">
                 <div class="overlay">
-                    <div class="recent-work-inner">
-                        <h3><a href="#">Business theme</a></h3>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                        <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="http://conceptlighting.cl" target="_blank">Concept Lighting</a></h3>
+<!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="http://conceptlighting.cl" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
 
-        <div class="portfolio-item wordpress html col-xs-12 col-sm-4 col-md-3">
+        <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
-                <div class="overlay">
-                    <div class="recent-work-inner">
-                        <h3><a href="#">Business theme</a></h3>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                        <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                <img class="img-responsive" src="public/images/portfolio/todofreno.png" alt="">
+                <div class="overlay ">
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="#">Todofreno</a></h3>
+<!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
                     </div>
+                    <a class="preview pull-right" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
+
+        <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 movil">
+            <div class="recent-work-wrap">
+                <img class="img-responsive" src="public/images/portfolio/construmart.png" alt="">
+                <div class="overlay ">
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="https://play.google.com/store/apps/details?id=cl.zonagps.zonaventagps&hl=es" target="_blank">Zona GPS</a></h3>
+<!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                    </div>
+                    <a class="preview" href="https://play.google.com/store/apps/details?id=cl.zonagps.zonaventagps&hl=es" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                </div>
+            </div>
+        </div><!--/.portfolio-item-->
+
+        <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 movil">
+            <div class="recent-work-wrap">
+                <img class="img-responsive" src="public/images/portfolio/facilici.png" alt="">
+                <div class="overlay ">
+                    <div class="recent-work-inner text-center">
+                        <h3><a href="https://play.google.com/store/apps/details?id=com.facilici.facilicimovil&hl=es" target="_blank">Facilici</a></h3>
+<!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                    </div>
+                    <a class="preview" href="https://play.google.com/store/apps/details?id=com.facilici.facilicimovil&hl=es" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
+                </div>
+            </div>
+        </div><!--/.portfolio-item-->
+
+
 
       </div><!-- portfolio-items -->
 		</div><!-- container -->
@@ -164,46 +286,57 @@
 </div>
 
 <div class="container div-tecno" id="tecnologia">
-	<div class="col-md-12 slider">
+	<div class="col-md-12">
 		<h1 class="text-center text-uppercase">Tecnologías</h1>
-		<div class="col-md-3 tecno-item slide">
-			<img src="public/images/phplogo.png" class="img-responsive" height="250" width="250" style="margin-top: 10%;">
-		</div>
-		<div class="col-md-3 tecno-item slide">
-			<img src="public/images/android-logo.jpg" class="img-responsive" height="200" width="200">
-		</div>
-		<div class="col-md-3 tecno-item slide">
-			<img src="public/images/angularjs-logo.png" class="img-responsive" height="200" width="200">
-		</div>
-		<div class="col-md-3 tecno-item slide">
-			<img src="public/images/java-logo.png" class="img-responsive" height="200" width="200">
-		</div>
+        <ul id="slider" class="gallery content-slider">
+            <li>
+                <img src="public/images/phplogo.png" class="img-responsive" height="200" width="200">
+            </li>
+            <li>
+                <img src="public/images/android-logo.jpg" class="img-responsive" height="200" width="200">
+            </li>
+            <li>
+                <img src="public/images/angularjs-logo.png" class="img-responsive" height="200" width="200">
+            </li>
+            <li>
+                <img src="public/images/java-logo.png" class="img-responsive" height="200" width="200">
+            </li>
+            <li>
+                <img src="public/images/Cplus2.png" class="img-responsive" height="200" width="200">
+            </li>
+            <li>
+                <img src="public/images/net_logo.png" class="img-responsive" height="200" width="200">
+            </li>
+        </ul>
 	</div>
 </div>
 
 
 <div class="container-fluid div-contact" id="contacto">
-<h1 class="text-center text-uppercase">Contáctanos</h1>
-	<form class="text-center contact-form" method="post" action="">
-		<div class="form-group col-md-6 col-md-offset-3">
-			<input class="form-control" type="text" name="nombre" placeholder="Nombre">
+<h1 class="text-center text-uppercase col-md-offset-6">Contáctanos</h1>
+	<form class="text-center contact-form" method="post" action="enviocontacto.php" id="contact-form">
+		<div class="form-group col-md-6 col-md-offset-6">
+			<input class="form-control" type="text" name="nombre" placeholder="Nombre" required>
 		</div>
-		<div class="form-group col-md-6 col-md-offset-3">
+		<div class="form-group col-md-6 col-md-offset-6">
 			<input class="form-control" type="text" name="apellido" placeholder="Apellido">
 		</div>
-		<div class="form-group col-md-6 col-md-offset-3">
-			<input class="form-control" type="text" name="asunto" placeholder="Asunto">
+		<div class="form-group col-md-6 col-md-offset-6">
+			<input class="form-control" type="text" name="asunto" placeholder="Asunto" required>
 		</div>
-		<div class="form-group col-md-6 col-md-offset-3">
+		<div class="form-group col-md-6 col-md-offset-6">
 			<input class="form-control" type="text" name="tlf" placeholder="Teléfono">
 		</div>
-		<div class="form-group col-md-6 col-md-offset-3">
-			<input class="form-control" type="email" name="email" placeholder="Correo Electrónico">
+		<div class="form-group col-md-6 col-md-offset-6">
+			<input class="form-control" type="email" name="email" placeholder="Correo Electrónico" required>
 		</div>
-		<div class="form-group col-md-6 col-md-offset-3">
-			<textarea class="form-control" name="comentarios" rows="5" placeholder="Comentarios..."></textarea>
-		</div> 
-		<div class="col-md-12">
+		<div class="form-group col-md-6 col-md-offset-6">
+			<textarea class="form-control" name="comentarios" rows="5" placeholder="Comentarios..." required></textarea>
+		</div>
+        <div>
+            <input type="hidden" value="contact" name="formContact">
+        </div>
+		<div class="col-md-offset-6">
 			<input type="submit" class="btn btn-boxapp btn-lg" name="Enviar Consulta">
 		</div>
 	</form>

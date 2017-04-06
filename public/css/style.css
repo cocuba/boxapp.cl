@@ -79,6 +79,27 @@ body{
 	/*margin-top: 100px;*/
 }
 
+
+.carousel-inner{
+	height: 500px !important;
+}
+
+#carousel-boxapp video{
+	max-width:100%;
+	height:auto;
+}
+
+.carousel-caption-boxapp2{
+	top: 150px;
+}
+
+.carousel-caption-boxapp2 h3{
+	color: white;
+	font-weight: 800;
+}
+
+
+
 .first-banner{
 	background-image: url("../images/bck6.jpg");
 	width:100%;
@@ -110,6 +131,10 @@ body{
 	color: #fff;
 }
 
+.div-productos a{
+	color: white;
+}
+
 
 
 .div-tecno{
@@ -132,6 +157,16 @@ body{
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
 }
+
+#slider{
+	list-style: none;
+}
+
+.lSPrev{
+	color: red;
+}
+
+
 
 @keyframes fadein {
     from { opacity: 0; }
@@ -250,32 +285,48 @@ body{
 
 
 .div-contact{
-	background-color: #EFEFEF;
+	/*background-color: #EFEFEF;*/
+	background-image: url("../images/contacto_banner.jpg");
+	background-size: cover;
+	background-position: right;
+
 	padding-top:3%;
 	padding-bottom: 2%;
 }
 
 
 .modal-header{
+	background-image: none;
 	background-color: #5382b0 !important;
 	color: #fff;
 	text-align: center;
 }
 
-
-
-
-
-
-
-/*clase del footer*/
+/*clases del footer*/
 .footer{
 	border-top-style: solid;
 	border-top-color: #3C3C3C;
 	background-color: #3C3C3C;
-	height: 100px;
+	height: 175px;
 	color: #fff;
 }
+
+.footer p {
+	font-size: small;
+}
+
+
+.map-div{
+	padding-top: 2%;
+}
+
+.social-div{
+	padding-top: 3.3%;
+	font-size: large;
+	vertical-align: middle;
+}
+
+
 
 /*manejo de los iconos de redes sociales en el footer*/
 .social:hover {
@@ -309,3 +360,4 @@ body{
  #social-em:hover {
      color: #f39c12;
  }
+

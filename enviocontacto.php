@@ -26,8 +26,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     //Set an alternative reply-to address
     //$mail->addReplyTo('vallenillac@gmail.com', 'Limchile');
     //Set who the message is to be sent to
-    $mail->addAddress('info@boxapp.cl', 'Boxapp');
-//    $mail->addAddress('contacto@limchile.cl', 'Limchile');
+//    $mail->addAddress('info@boxapp.cl', 'Boxapp');
+    $mail->addAddress('cesar.vallenilla@boxapp.cl', 'Limchile');
     //set CC 
     $mail->AddCC($email, $nombre);
     //adding file from the form 
@@ -62,6 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $r = array();
 
+
     if(!$mail->send()) {
         $r = array('ok' => false);
     } else {
@@ -70,5 +71,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     header('Content-Type: application/json;charset=utf-8');
     echo json_encode($r, true);
+
 }
 

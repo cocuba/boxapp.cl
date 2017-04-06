@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b17596e3-8e5f-4a2c-90e8-7825a560213b" name="Default" comment="se  agregaron funcionalides a los botones del erp&#10;se arreglo el footer &#10;agregadas nuevas paginas de productos&#10;agregado el chat de boxapp">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Contact-us-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/Cplus2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/banner_contacto_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/contact-us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/contacto_banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/erp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/net_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/abal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/alogistica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/conceptlighting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/construmart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/cromocar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/diff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/eleocolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/esmaltadoprofesional.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/facilici.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/fardo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/flamante.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/grupomeicys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/iccingenieria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/LogoZonaGPS_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/logo-clinica-everest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/logo-web-rally.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/logos/todofreno.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/meicys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/restauraciondetinas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/suzukivalderrama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/todofreno.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/vipcar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/video/background_video.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/boxappwp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/cvallenilla.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productos_movil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productos_propietario.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productos_web.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/lightslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/lightslider.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/unslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/unslider.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/angularjs-logo.png" afterPath="$PROJECT_DIR$/public/images/angularjs-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/java-logo.png" afterPath="$PROJECT_DIR$/public/images/java-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/phplogo.png" afterPath="$PROJECT_DIR$/public/images/phplogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/portfolio/azachian.png" afterPath="$PROJECT_DIR$/public/images/portfolio/azachian.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/portfolio/everest.png" afterPath="$PROJECT_DIR$/public/images/portfolio/everest.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enviocontacto.php" afterPath="$PROJECT_DIR$/enviocontacto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/footer.html" afterPath="$PROJECT_DIR$/includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/header.html" afterPath="$PROJECT_DIR$/includes/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/boxapp.js" afterPath="$PROJECT_DIR$/public/js/boxapp.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="boxappwp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="338" column="20" lean-forward="false" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4320">
+              <caret line="288" column="56" lean-forward="false" selection-start-line="288" selection-start-column="56" selection-end-line="288" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="erp_carac_model.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/erp_carac_model.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="135" lean-forward="false" selection-start-line="40" selection-start-column="135" selection-end-line="40" selection-end-column="135" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productos_web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productos_web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productos_movil.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productos_movil.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productos_propietario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productos_propietario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boxapp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+              <folding>
+                <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+                <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+                <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+                <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>col-md-offset-3</find>
+      <find>limchile</find>
+      <find>none</find>
+      <find>item</find>
+      <find>erp</find>
+      <find>form</find>
+      <find>&quot;</find>
+      <find>div-productos</find>
+      <find>tecno</find>
+      <find>#slider</find>
+      <find>slider</find>
+      <find>portg</find>
+      <find>todo</find>
+      <find>carousel-caption-boxapp2</find>
+      <find>foot</find>
+      <find>\&lt;div class\=\&quot;carousel\-inner\&quot; role\=\&quot;listbox\&quot;\&gt;\n        \&lt;div class\=\&quot;item active\&quot;\&gt;\n            \&lt;img src\=\&quot;public\/images\/bck6\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n            \&lt;div class\=\&quot;carousel\-caption\&quot;\&gt;\n                \.\.\.\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;item\&quot;\&gt;\n            \&lt;video autoplay loop\&gt;\n                \&lt;source src\=\&quot;public\/video\/background_video\.mp4\&quot; type\=\&quot;video\/mp4\&quot;\&gt;\n            \&lt;\/video\&gt;\n            \&lt;\!\-\-            \&lt;img src\=\&quot;\&quot; alt\=\&quot;\.\.\.\&quot;\&gt;\-\-\&gt;\n\n            \&lt;div class\=\&quot;carousel\-caption\&quot; id\=\&quot;carousel\-caption\-boxapp2\&quot;\&gt;\n                \&lt;h1\&gt;Boxapp\&lt;\/h1\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/div\&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Boxapp</replace>
+      <replace>'</replace>
+      <replace>&lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;         &lt;div class=&quot;item active&quot;&gt;             &lt;img src=&quot;public/images/bck6.jpg&quot; alt=&quot;&quot;&gt;             &lt;div class=&quot;carousel-caption carousel-caption-boxapp2&quot;&gt;                 &lt;h3 class=&quot;text-uppercase&quot;&gt; &lt;b style=&quot;color:#029eff&quot;&gt;Especialistas Tecnológicos!&lt;/b&gt; somos un equipo de personas jóvenes dedicadas a cumplir las metas                     propuestas por los clientes.                 &lt;/h3&gt;              &lt;/div&gt;         &lt;/div&gt;         &lt;div class=&quot;item&quot;&gt;             &lt;video autoplay loop&gt;                 &lt;source src=&quot;public/video/background_video.mp4&quot; type=&quot;video/mp4&quot;&gt;             &lt;/video&gt;             &lt;!--            &lt;img src=&quot;&quot; alt=&quot;...&quot;&gt;--&gt;              &lt;div class=&quot;carousel-caption carousel-caption-boxapp2&quot;&gt;                 &lt;h3 class=&quot;text-uppercase&quot;&gt;&lt;b style=&quot;color:#029eff&quot;&gt;Nuestro objetivo&lt;/b&gt; es lograr integrar las tecnologías al mercado, al común diario y a las personas; para así                 poder entregar más herramientas de desarrollo al país.&lt;/h3&gt;             &lt;/div&gt;         &lt;/div&gt;      &lt;/div&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Cesar Vallenilla &lt;vallenillac@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/erp_form.html" />
+        <option value="/JQuery-CSS Fragment (boxapp.js:224).css" />
+        <option value="$PROJECT_DIR$/erp-carac_model.html" />
+        <option value="$PROJECT_DIR$/erp_carac_model.html" />
+        <option value="$PROJECT_DIR$/public/css/lightslider.css" />
+        <option value="$PROJECT_DIR$/erp_form.php" />
+        <option value="$PROJECT_DIR$/enviocontacto.php" />
+        <option value="$PROJECT_DIR$/includes/header.html" />
+        <option value="$PROJECT_DIR$/public/js/boxapp.js" />
+        <option value="$PROJECT_DIR$/productos_web.php" />
+        <option value="$PROJECT_DIR$/productos_movil.php" />
+        <option value="$PROJECT_DIR$/productos_propietario.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/footer.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1365" />
+    <option name="width" value="1922" />
+    <option name="height" value="1081" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSJQueryEfficiency</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boxappwp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../autofin" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$APPLICATION_HOME_DIR$/JetBrains/dic" Dictionaries="0" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b17596e3-8e5f-4a2c-90e8-7825a560213b" name="Default" comment="" />
+      <created>1488200387777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488200387777</updated>
+      <workItem from="1488200391344" duration="17617000" />
+      <workItem from="1488227157320" duration="3828000" />
+      <workItem from="1488306408922" duration="5605000" />
+      <workItem from="1488313208722" duration="15229000" />
+      <workItem from="1491223290313" duration="15303000" />
+      <workItem from="1491312319328" duration="2175000" />
+      <workItem from="1491396528317" duration="52000" />
+      <workItem from="1491396808371" duration="6356000" />
+      <workItem from="1491403616997" duration="395000" />
+      <workItem from="1491404038658" duration="1498000" />
+      <workItem from="1491408589949" duration="2652000" />
+      <workItem from="1491482020873" duration="531000" />
+    </task>
+    <task id="LOCAL-00001" summary="se  agregaron funcionalides a los botones del erp">
+      <created>1488221321164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488221321164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1365" y="0" width="1922" height="1081" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.49591836" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.102604166" sideWeight="0.5040816" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="se  agregaron funcionalides a los botones del erp" />
+    <MESSAGE value="se  agregaron funcionalides a los botones del erp&#10;se arreglo el footer &#10;agregadas nuevas paginas de productos&#10;agregado el chat de boxapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="se  agregaron funcionalides a los botones del erp&#10;se arreglo el footer &#10;agregadas nuevas paginas de productos&#10;agregado el chat de boxapp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="290" column="30" lean-forward="false" selection-start-line="290" selection-start-column="30" selection-end-line="290" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4710">
+          <caret line="314" column="39" lean-forward="true" selection-start-line="314" selection-start-column="28" selection-end-line="314" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_movil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_propietario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="290" column="30" lean-forward="false" selection-start-line="290" selection-start-column="30" selection-end-line="290" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="23" lean-forward="false" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_movil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_propietario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="144" column="6" lean-forward="false" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="68" lean-forward="false" selection-start-line="120" selection-start-column="68" selection-end-line="120" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2865">
+          <caret line="191" column="29" lean-forward="false" selection-start-line="191" selection-start-column="29" selection-end-line="191" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erp_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enviocontacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="6" lean-forward="false" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="6" />
+          <folding>
+            <marker date="1488314909320" expanded="true" signature="1302:1403" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1423:1452" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1453:2002" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1475:1590" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1661:1676" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1713:1877" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1713:1989" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1713:2002" ph="..." />
+            <marker date="1488314909320" expanded="false" signature="1771:1779" ph="é" />
+            <marker date="1488314909320" expanded="false" signature="1902:1956" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1957:1974" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/lightslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="53" lean-forward="false" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="168" column="54" lean-forward="false" selection-start-line="168" selection-start-column="54" selection-end-line="168" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="136" column="21" lean-forward="false" selection-start-line="136" selection-start-column="21" selection-end-line="136" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="166" column="28" lean-forward="true" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/unslider.css" />
+    <entry file="file://$PROJECT_DIR$/public/js/unslider.js" />
+    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" column="19" lean-forward="false" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/functions.js" />
+    <entry file="file://$PROJECT_DIR$/public/css/jquery.bxslider.min.css" />
+    <entry file="file://$PROJECT_DIR$/public/js/unslider.js" />
+    <entry file="file://$PROJECT_DIR$/public/css/unslider.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/lightslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="156" column="53" lean-forward="false" selection-start-line="156" selection-start-column="53" selection-end-line="156" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erp_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="49" lean-forward="false" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_movil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_propietario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/productos_web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/boxapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <marker date="1491253032291" expanded="true" signature="3861:3875" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="4450:4464" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="5480:5494" ph="..." />
+            <marker date="1491253032291" expanded="true" signature="6073:6087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enviocontacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <folding>
+            <marker date="1488314909320" expanded="true" signature="1302:1403" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1423:1452" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1453:2002" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1475:1590" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1661:1676" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1713:1877" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1713:1989" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1713:2002" ph="..." />
+            <marker date="1488314909320" expanded="false" signature="1771:1779" ph="é" />
+            <marker date="1488314909320" expanded="false" signature="1902:1956" ph="..." />
+            <marker date="1488314909320" expanded="true" signature="1957:1974" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erp_carac_model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="135" lean-forward="false" selection-start-line="40" selection-start-column="135" selection-end-line="40" selection-end-column="135" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="288" column="56" lean-forward="false" selection-start-line="288" selection-start-column="56" selection-end-line="288" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="338" column="20" lean-forward="false" selection-start-line="338" selection-start-column="20" selection-end-line="338" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

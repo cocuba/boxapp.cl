@@ -1,5 +1,51 @@
 
 $(document).ready(function(){
+    // slider
+    $('#slider').lightSlider({
+        item: 4,
+        autoWidth: false,
+        slideMove: 1, // slidemove will be 1 if loop is true
+        slideMargin: 10,
+        enableDrag: false,
+        auto:true,
+        loop:true,
+        pauseOnHover: true,
+        controls: false,
+
+        addClass: '',
+        mode: "slide",
+        useCSS: true,
+        cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
+        easing: 'linear', //'for jquery animation',////
+
+        // adaptiveHeight:true
+        currentPagerPosition:'left'
+    });
+
+    // slider
+    $('.slider-tec').lightSlider({
+        item: 4,
+        autoWidth: false,
+        slideMove: 1, // slidemove will be 1 if loop is true
+        slideMargin: 10,
+        enableDrag: false,
+        auto:true,
+        loop:true,
+        pauseOnHover: true,
+        controls: false,
+
+        addClass: '',
+        mode: "slide",
+        useCSS: true,
+        cssEasing: 'ease', //'cubic-bezier(0.25, 0, 0.25, 1)',//
+        easing: 'linear', //'for jquery animation',////
+
+        // adaptiveHeight:true
+        currentPagerPosition:'left'
+    });
+
+
+
 	// cambia navbar con el scroll de la pagina
 	$(window).scroll(function(){
         if ($(window).scrollTop() > 599) {
@@ -73,6 +119,7 @@ $(document).ready(function(){
             data: $('#erp-form').serialize(),
             success: function(data){
                 if (data.ok) {
+                    $('#erp-form').trigger("reset");
                     $("#modalErp").find(".modal-body").html(
                         "<h3 class='text-center'> <span><i class='glyphicon glyphicon-ok' style='color: #228b22'></i></span> Correo Enviado Correctamente,<br> Pronto Nos Comunicaremos Contigo!</h3>"
                     );
@@ -95,14 +142,42 @@ $(document).ready(function(){
         });
     });
 
+	// envio de correo del formulario de contacto
+    $('#contact-form').on('submit', function(e){
+        e.preventDefault();
+        $.ajax({
+            url: "enviocontacto.php",
+            type: 'POST',
+            data: $('#contact-form').serialize(),
+            success: function(data){
+                if (data.ok) {
+                    $('#contact-form').trigger("reset");
 
-	// slider
-    $('.slider').unslider({
-        keys: false,
-        // arrows: false,
-        nav: false,
-        autoplay: true
+                    $("#modalErp").modal('toggle');
+                    $("#modalErp").find(".modal-body").html(
+                        "<h3 class='text-center'> <span><i class='glyphicon glyphicon-ok' style='color: #228b22'></i></span> Correo Enviado Correctamente,<br> Pronto Nos Comunicaremos Contigo!</h3>"
+                    );
+                    $("#modalErp").find(".modal-body").append(
+                        "<div class='modal-footer'>"+
+                        "<button type='button' class='btn btn-boxapp' data-dismiss='modal'>Cerrar</button>"+
+                        "</div>"
+                    );
+                }else {
+                    $("#modalErp").find(".modal-body").html(
+                        "<h3 class='text-center'> <span><i class='glyphicon glyphicon-remove' style='color: #ff0000'></i></span> No se envió el Correo,<br> Intenta Nuevamente!</h3>"
+                    );
+                    $("#modalErp").find(".modal-body").append(
+                        "<div class='modal-footer'>"+
+                        "<button type='button' class='btn btn-boxapp' data-dismiss='modal'>Cerrar</button>"+
+                        "</div>"
+                    );
+                }
+            }
+        });
     });
+
+
+
 });
 
 
