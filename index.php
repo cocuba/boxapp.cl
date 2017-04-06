@@ -105,33 +105,33 @@
                         <h3><a href="http://www.azachian.cl" target="_blank">Azachian</a></h3>
 <!--                        <p>Portal informativo acerca de los Terapistas y sus Consultas</p>-->
                     </div>
+                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
-                <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
             </div>
         </div><!--/.portfolio-item-->
 
         <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/alogistica.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/alogistica.png" alt="" style="top:0; margin: auto">
                 <div class="overlay ">
                     <div class="recent-work-inner text-center">
                         <h3><a href="#">Alogística</a></h3>
                         <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="javascript:void(0)" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
-                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
 
         <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/todofreno.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/logo-web-rally.png" alt="" style="top:0; margin: auto">
                 <div class="overlay ">
                     <div class="recent-work-inner text-center">
                         <h3><a href="#">Rally Limitada</a></h3>
                         <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="javascript:void(0)" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
-                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
@@ -142,22 +142,22 @@
                 <div class="overlay text-center">
                     <div class="recent-work-inner text-center">
                         <h3><a href="http://www.afa-chile.cl" target="_blank">Afa-Chile</a></h3>
-                        <p>Portal informativo de la empresa, adicionalmente se habilit&oacute; boton de pago</p>
+<!--                        <p>Portal informativo de la empresa, adicionalmente se habilit&oacute; boton de pago</p>-->
                     </div>
+                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
-                <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
             </div>
         </div><!--/.portfolio-item-->
 
         <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/todofreno.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/suzukivalde.png" alt="" style="top:0; margin: auto">
                 <div class="overlay ">
                     <div class="recent-work-inner text-center">
                         <h3><a href="#">Suzuki Valderrama</a></h3>
                         <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="javascript:void(0)" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
-                    <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
@@ -168,7 +168,7 @@
                 <div class="overlay">
                     <div class="recent-work-inner text-center">
                         <h3><a href="http://www.comercialabal.cl" target="_blank">Comercial Abal</a></h3>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+<!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
                         <a class="preview" href="http://www.comercialabal.cl" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
                 </div>
@@ -177,12 +177,12 @@
 
         <div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-3 erp-portfolio">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/everest.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/logo-clinica-everest.png" alt="" style="top:0; margin: auto">
                 <div class="overlay text-center">
                     <div class="recent-work-inner">
                         <h3><a href="#">Clinica Everest</a></h3>
                         <!-- <p>Clinica Dental que lleva el control de sus suministros</p> -->
-                        <!-- <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a> -->
+                         <a class="preview" href="javascript:void(0)" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
                 </div>
             </div>
@@ -194,7 +194,8 @@
                 <div class="overlay text-center">
                     <div class="recent-work-inner">
                         <h3><a href="https://www.limchile.cl" target="_blank">Limchile</a></h3>
-                        <p>Página web de la Empresa con un modulo de noticias administrable por el cliente para poder crear, editar y eliminar las mismas</p>
+<!--                        <p>Página web de la Empresa con un modulo de noticias administrable por el cliente para poder crear, editar y eliminar las mismas</p>-->
+                        <a class="preview" href="http://cromocar.cl" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
                 </div>
             </div>
@@ -228,39 +229,39 @@
 
         <div class="portfolio-item erp-portfolio col-xs-12 col-sm-4 col-md-3">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/todofreno.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/todofreno.png" alt="" style="top:0; margin: auto">
                 <div class="overlay ">
                     <div class="recent-work-inner text-center">
                         <h3><a href="#">Todofreno</a></h3>
 <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="javascript:void(0)" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
-                    <a class="preview pull-right" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
 
         <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 movil">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/construmart.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/LogoZonaGPS_2.png" alt="" style="top:0; margin: auto">
                 <div class="overlay ">
                     <div class="recent-work-inner text-center">
                         <h3><a href="https://play.google.com/store/apps/details?id=cl.zonagps.zonaventagps&hl=es" target="_blank">Zona GPS</a></h3>
 <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="https://play.google.com/store/apps/details?id=cl.zonagps.zonaventagps&hl=es" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
-                    <a class="preview" href="https://play.google.com/store/apps/details?id=cl.zonagps.zonaventagps&hl=es" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->
 
         <div class="portfolio-item col-xs-12 col-sm-4 col-md-3 movil">
             <div class="recent-work-wrap">
-                <img class="img-responsive" src="public/images/portfolio/facilici.png" alt="">
+                <img class="img-responsive" src="public/images/portfolio/logos/facilici.jpg" alt="" style="top:0; margin: auto">
                 <div class="overlay ">
                     <div class="recent-work-inner text-center">
                         <h3><a href="https://play.google.com/store/apps/details?id=com.facilici.facilicimovil&hl=es" target="_blank">Facilici</a></h3>
 <!--                        <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>-->
+                        <a class="preview" href="https://play.google.com/store/apps/details?id=com.facilici.facilicimovil&hl=es" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                     </div>
-                    <a class="preview" href="https://play.google.com/store/apps/details?id=com.facilici.facilicimovil&hl=es" target="_blank" rel="prettyPhoto"><i class="fa fa-eye"></i> Ver</a>
                 </div>
             </div>
         </div><!--/.portfolio-item-->

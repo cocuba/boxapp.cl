@@ -241,6 +241,10 @@ body{
 	display: inline;
 }
 
+.portfolio-item{
+	margin-bottom: 4%;
+}
+
 
 /*estilo de boton personalizado*/
 .btn-boxapp{

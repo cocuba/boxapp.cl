@@ -12,7 +12,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title text-uppercase" id="myModalLabel">Consulta ERP</h4>
                 </div>
-                <div class="modal-body div-contact">
+                <div class="modal-body">
                     <form method="post" action="" id="erp-form">
                         <div class="form-group ">
                             <input class="form-control" type="text" name="nombre" placeholder="Nombre" required>
