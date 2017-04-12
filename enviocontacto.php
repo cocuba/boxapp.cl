@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     //$mail->addReplyTo('vallenillac@gmail.com', 'Limchile');
     //Set who the message is to be sent to
 //    $mail->addAddress('info@boxapp.cl', 'Boxapp');
-    $mail->addAddress('cesar.vallenilla@boxapp.cl', 'Limchile');
+    $mail->addAddress('info@boxapp.cl', 'Boxapp');
     //set CC 
     $mail->AddCC($email, $nombre);
     //adding file from the form 
@@ -41,7 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $mail->Subject = $nombre.' - Contacto Boxapp.cl';
     $mail->Body    = '
       <div>
-        <img src="https://www.limchile.cl/images/logo.jpg" width="17%" height="auto" />
+        <img src="https://www.boxapp.cl/boxappweb/public/images/boxapplogo.png" width="17%" height="auto" />
       </div>
       <div style="position:relative;width:100%;">
         <div style="width:70%;background:#fff;margin:3% auto;padding:1%;position:absolute;top:-40%;left:60%;transform:translateX(-50%);">

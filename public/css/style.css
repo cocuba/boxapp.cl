@@ -90,7 +90,7 @@ body{
 }
 
 .carousel-caption-boxapp2{
-	top: 150px;
+	top: 190px;
 }
 
 .carousel-caption-boxapp2 h3{
@@ -311,8 +311,18 @@ body{
 	border-top-style: solid;
 	border-top-color: #3C3C3C;
 	background-color: #3C3C3C;
-	height: 175px;
+	height: 215px;
 	color: #fff;
+}
+
+.footercontact{
+	/*vertical-align: middle !important;*/
+	/*display: inline-block !important;*/
+	padding-top: 1%;
+}
+
+.footercontact h1{
+	font-size: 33px;
 }
 
 .footer p {
